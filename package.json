@@ -1,0 +1,21 @@
+{
+  "name": "auth0-script",
+  "version": "1.0.0",
+  "description": "User login report automation script for Auth0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "script",
+    "Auth0",
+    "user",
+    "login"
+  ],
+  "author": "matthewbrown",
+  "license": "ISC",
+  "dependencies": {
+    "auth0": "^2.17.0",
+    "nodemailer": "^6.1.1"
+  }
+}
